@@ -27,7 +27,9 @@
   <li>result.csv:Models with Topsis rank</li>
 </ol>
 <h2>Results</h2>
-![image](https://github.com/Kanishhkka/102103772-TextClassification-Topsis/assets/107942421/b8d9193a-5f69-475f-9881-7b55efd06974)
+<img src="https://github.com/Kanishhkka/102103772-TextClassification-Topsis/assets/107942421/b8d9193a-5f69-475f-9881-7b55efd06974">
+
 <h2>BarChart</h2>
+<img src="https://github.com/Kanishhkka/102103772-TextClassification-Topsis/assets/107942421/a6bcda28-dc32-48bd-9fc7-d0167780fee4">
 ![image](https://github.com/Kanishhkka/102103772-TextClassification-Topsis/assets/107942421/a6bcda28-dc32-48bd-9fc7-d0167780fee4)
 
